@@ -70,7 +70,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 </div>
 
-<h2 align="center">🏆 GitHub Achievements & Stats</h2>
+<h2 align="center">🏆 GitHub Achievements & Stats </h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sarthak-ji&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
