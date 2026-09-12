@@ -1,115 +1,143 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:00f0ff&height=250&section=header&text=Hello%20World!%20👋%20I'm%20Sarthak&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=CSIT%20Student%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" />
-</div>
+<h1 align="center">Hello World! 👋 I'm Sarthak</h1>
+
+<h3 align="center">Full-Stack Developer | MERN | Backend | Problem Solving</h3>
 
 <p align="center">
-  <a href="https://github.com/sarthak-ji">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=>+npm+start+development;>+Initializing+MERN+Stack...;>+Loading+Generative+AI+Models...;>+Compiling+DSA+%26+System+Design...;>+Turning+coffee+into+code+☕!" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/sarthak-srivastava">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/sarthak-srivastava">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:sarthaksrivastava1313@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<!-- Animated Glowing Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</div>
+---
 
-<!-- Developer Profile Card (Code style) -->
-<h2 align="center">👨‍💻 <code>sarthak.json</code></h2>
+### 👨‍💻 About Me
 
-```json
-{
-  "name": "Sarthak",
-  "education": "B.Tech CSIT @ KIET Group of Institutions 🎓",
-  "roles": [
-    "Full-Stack Developer", 
-    "GenAI Explorer", 
-    "Problem Solver"
-  ],
-  "tech_stack": {
-    "frontend": ["React", "Redux", "Tailwind", "Vite"],
-    "backend": ["Node.js", "Express", "MongoDB"],
-    "ai_emerging": ["RAG", "Prompt Engineering", "Ollama", "LangChain"]
-  },
-  "current_focus": "Building scalable applications & mastering WebSockets 🔌",
-  "philosophy": "Build → Break → Understand → Improve → Repeat. 🚀"
-}
+* 🚀 I'm a **Full-Stack Developer** focused on building scalable and user-friendly web applications.
+* 🌱 Currently learning **AWS, Advanced Backend Development & Data Structures and Algorithms**.
+* 🧠 Interested in **System Design, Generative AI, Real-Time Applications & Backend Architecture**.
+* 🔧 I enjoy turning ideas into working products and figuring out how things work under the hood.
+* 📫 Reach me at **[sarthaksrivastava1313@gmail.com](mailto:sarthaksrivastava1313@gmail.com)**
+* ⚡ **Fun fact:** I don't fear bugs anymore. We have a professional relationship. 🤝🐛
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+</a>
+
+<a href="https://redis.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+</a>
+
+<a href="https://redux.js.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+</a>
+
+<a href="https://sass-lang.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+### 💻 Current Focus
+
+```text
+Full-Stack Development
+        ↓
+Advanced Backend Development
+        ↓
+System Design & Scalable Architecture
+        ↓
+Generative AI & AI-powered Applications
+        ↓
+AWS & Cloud
+        ↓
+DSA & Problem Solving
 ```
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</div>
+---
 
-<h2 align="center">🔥 Top Skills</h2>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,redux,tailwind,vite,nodejs,express,mongodb,python,docker,git,github,vscode,postman,vercel&perline=9" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</div>
-
-<h2 align="center">🚀 Featured Missions</h2>
-
-<div align="center">
-
-| 🌟 Project | 📝 Description | 💻 Tech Stack |
-| :--- | :--- | :--- |
-| **[🔎 AI-Powered Search](#)** | A Perplexity-inspired AI app with AI-generated responses and conversational search. | `React`, `Node.js`, `Express`, `MongoDB`, `GenAI` |
-| **[🧘 ZenFlow](#)** | Mental Wellness Platform helping users manage stressful moments through guided experiences. | `React`, `Node.js`, `MongoDB`, `AI` |
-| **[💬 Real-Time Comms](#)** | Exploring WebSockets & Socket.IO to understand real-time systems and messaging. | `Socket.IO`, `Node.js`, `React` |
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</div>
-
-<h2 align="center">🏆 GitHub Achievements & Stats </h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthak-ji&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-ji&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-ji&layout=compact&theme=radical&hide_border=true" height="170"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sarthak-ji&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</div>
-
-<h2 align="center">📡 Connect with the Server</h2>
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/sarthak-ji">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <!-- Update the LinkedIn link below with your actual profile URL -->
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <!-- Update the email link below with your actual email address -->
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-ji&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-ji&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthak-ji&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://streak-stats.demolab.com?user=sarthak-ji&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:00f0ff&height=100&section=footer" />
-</div>
+---
+
+<p align="center">
+  <b>Build. Learn. Debug. Repeat. 🚀</b>
+</p>
