@@ -1,4 +1,4 @@
-<img src="https://kommodo.ai/i/lYBFZfFgydCORlrijGfA" alt="Banner" width="100%" />
+<img src="https://cdn.phototourl.com/free/2026-09-13-bf3a394c-bbf6-42ec-82f0-a12982a4ba58.png" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🚀 I'm a Full-Stack Developer focused on building scalable and user-friendly web applications.
