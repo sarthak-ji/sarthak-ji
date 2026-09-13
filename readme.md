@@ -9,11 +9,6 @@
 - 🐛 I don't fear bugs anymore. We have a professional relationship
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sarthak-ji&theme=dracula&hide_border=true&cache_seconds=86400" alt="sarthak-ji's GitHub Streak" width="49%" />
-</p>
-
 
 ## 🛠️ Languages & Tools
 
@@ -81,8 +76,4 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
 
